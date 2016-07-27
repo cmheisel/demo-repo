@@ -11,6 +11,11 @@ SHIP_NAMES = [
     "Columbia",
     "Discovery",
     "Atlantis",
+    "Challenger",
+    "Endeavour",
+    "SDF-1",
+    "Eagle",
+    "Friendship 7",
 ]
 
 print(random.choice(SHIP_NAMES))
